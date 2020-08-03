@@ -17,9 +17,9 @@ s
 ### Day 1: August 3nd 2020
 ##### (delete me or comment me out)
 
-**Today's Progress**: Continued Udemy course on java, tried writing code for encryption of a string by shifting of letters in a string by n number. Could not do decryption part, tried with simple shifting of letters to the right by n places using for loops. The original solution had usage of hashmap which was little challenging for  me nd took me 3 hours to figure out. 
+**Today's Progress**: Continued Udemy course on java, tried writing code for encryption of a string by shifting of letters in a string by n number. Could not do decryption part, tried with simple shifting of letters to the right by n places using for loops. The original solution had usage of hashmap which was little challenging for  me nd took me 3 hours to figure out. Also solved yesterday's problem on my own,  need to make it efficient for longer data. It fails to execute during required time.
 
 **Thoughts:** Took more time and felt little demotivated however i did not give up and finally found the solution.
 
-**Link to work:** 
+**Link to work:** https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings 
 
