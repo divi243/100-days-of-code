@@ -1,0 +1,44 @@
+/* package codechef; // don't place package name! */
+//cipher text shift letters by offser
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+/* Name of the class has to be "Main" only if the class is public. */
+class Codechef
+{
+	public String ciphertext (String str1)
+	{
+		// your code goes here
+
+		int offset = 3;
+	    int size = str1.length();
+		char[] a = new char[size];
+			int n =a.length;
+		a = str1.toCharArray();
+	       // take out the last element
+   
+	    for(int i = 0;i<offset;i++){
+	           char temp = a[n - 1];
+	            for (int j = n - 1; j > 0; j--) {
+
+        // shift array elements towards right by one place
+        a[j] = a[j - 1];
+      }
+      a[0] = temp;
+    }
+	    
+    // System.out.println("\nNew array after rotating by one postion in the right direction");
+    String res = String.valueOf(a);
+    return res;
+    
+	}
+}
+class Encrypt{
+	public static void main(String args[]){
+	   String str = "ABCDEFGHIJKLMNPQRSTUVWXYZ";
+   Codechef Encrypt = new Codechef();
+  String result = Encrypt.ciphertext(str);
+	System.out.println(result);
+}
+}
