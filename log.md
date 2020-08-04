@@ -23,3 +23,12 @@ s
 
 **Link to work:** https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings 
 
+### Day 2: August 4th 2020
+##### (delete me or comment me out)
+
+**Today's Progress**: Solved string manipulation problem related to string validation in java. Udemy course, solved prime  number problem using arrays and sieveoferatosthenes method. 
+
+**Thoughts:** good day of coding
+
+**Link to work:** https://www.geeksforgeeks.org/sieve-of-eratosthenes/ refered this for understanding the method 
+time -3 hours
