@@ -32,3 +32,13 @@ s
 
 **Link to work:** https://www.geeksforgeeks.org/sieve-of-eratosthenes/ refered this for understanding the method 
 time -3 hours
+
+### Day 3: August 5th 2020
+##### (delete me or comment me out)
+
+**Today's Progress**: Learned about anagrams and tried to code for checking if two strings are anagrams of each other. Not  much progress with string manipulation, stuck with problem related to finding the longest common substring from two strings, test cases are failing. 
+
+**Thoughts:** Slightly demotivated but will try again tomorrow
+
+**Link to work:**
+time -3 hours
