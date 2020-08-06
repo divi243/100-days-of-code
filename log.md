@@ -42,3 +42,11 @@ time -3 hours
 
 **Link to work:**
 time -3 hours
+
+Day 4: August 6th 2020
+(delete me or comment me out)
+Today's Progress: Good day of learning. Learned about hashmap while trying to solve common child problem using hashmaps, basic test cases are passing in hackerrank but there are some other cases failing, however i learned how to convert hashmap to string array and that we can use linkedhashmap to preserve the order. Solved special string problem.
+
+Thoughts: A better day at coding, started with some interview questions eg asked by fb (udemy course)
+
+Link to work: time - 4 hours
