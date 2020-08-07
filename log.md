@@ -50,3 +50,12 @@ Today's Progress: Good day of learning. Learned about hashmap while trying to so
 Thoughts: A better day at coding, started with some interview questions eg asked by fb (udemy course)
 
 Link to work: time - 4 hours
+### Day 5: August 7th 2020
+##### (delete me or comment me out)
+
+**Today's Progress**: Referred hacker rank solution for common child problem. Tried Array manipulation problem of hard level,  could not solve much.
+**Thoughts:** Slightly demotivated but will try again tomorrow
+
+**Link to work:**
+time -half day.
+
