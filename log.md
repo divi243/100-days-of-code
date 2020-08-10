@@ -59,3 +59,12 @@ Link to work: time - 4 hours
 **Link to work:**
 time -half day.
 
+Day 6 & 7: 
+Today's Progress: was not keeping well,no work on coding part but tried learning git. compeleted all the levels in  learngitbanching.com
+Thoughts: Positive, learned well.
+
+Day 8: August 10th 2020
+
+Today's Progress: Learned about Arrays, data type conversion,prefix summation algorithm. Tried to code for Array manipulation hard problem from hackerrank, was able to code with help of references but need to optimize the code - time complexity reducition.
+
+
