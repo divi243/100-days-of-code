@@ -68,3 +68,19 @@ Day 8: August 10th 2020
 Today's Progress: Learned about Arrays, data type conversion,prefix summation algorithm. Tried to code for Array manipulation hard problem from hackerrank, was able to code with help of references but need to optimize the code - time complexity reducition.
 
 
+### Day 9: August 11th 2020
+##### (delete me or comment me out)
+
+**Today's Progress**: went throgh udemy course, interview questions. Related to amazon,facebook etc
+
+**Thoughts:** Less code more reading.
+
+### Day 10: August 12th 2020
+##### (delete me or comment me out)
+
+**Today's Progress**: Read an article - how to prepare for an interview, very informative one. Revised sorting, merging of two lists.
+
+**Thoughts:** less code more reading
+
+**Link to work:** https://dev.to/jacobjzhang/how-to-prepare-for-a-technical-interview-4f24 article
+time -3 hours
