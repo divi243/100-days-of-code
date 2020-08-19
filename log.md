@@ -103,3 +103,15 @@ time -3 hours
 
 **Link to work:** https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
 time -3 hours
+### Day 13: August 18th 2020
+  More of reading and less productive - refer twitter post. Selenium theory and installation of eclipse selenium drivers.
+  
+  ### Day 14: August 19th 2020
+
+
+**Today's Progress**: Tried recording test scripts using selenium IDE, installed webdrivers for chrome, selenium. wrote a scriptfor launching google.com however facing some issue with driver version that needs to be fixed 
+**Thoughts:** slow day
+
+**Link to work:** guru99.com 
+time -1 hour
+
