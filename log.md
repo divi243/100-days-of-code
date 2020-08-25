@@ -115,3 +115,7 @@ time -3 hours
 **Link to work:** guru99.com 
 time -1 hour
 
+Day 15: August 25th 2020
+
+Today's Progress : Learned about notion app to keep track of my tasks, a very useful app.Learned about testNG scripts annotations.
+Read an article regarding the same.
