@@ -1,0 +1,56 @@
+ 
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+import org.openqa.selenium.*;
+
+ 
+//comment the above line and uncomment below line to use Chrome
+//import org.openqa.selenium.chrome.ChromeDriver;
+public class NewTest {
+	WebDriver driver;
+	
+
+    @Test
+    public void homepageTestpresence() {
+        // declaration and instantiation of objects/variables	
+    	driver.findElement(By.xpath("/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[2]/ytd-searchbox/form/div/div[1]/input"));
+    	driver.findElement(By.xpath("/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[1]/a"));
+    	driver.findElement(By.xpath("/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[1]/a"));
+    	driver.findElement(By.xpath("/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[3]/a"));
+    	driver.findElement(By.xpath("/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[4]/a"));
+    	driver.findElement(By.xpath("/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[5]/a"));      
+    }
+    
+
+    @Test(dependsOnMethods = { "homepageTestpresence" })
+    public void buttonTexts() {
+    	WebElement element = driver.findElement(By.xpath("/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[1]/a"));
+    	System.out.println(element.getText());
+        Assert.assertEquals(element.getText(), "Home");
+    	
+    	
+    }
+    
+	@BeforeTest
+	public void before() {
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\DeltaManiac\\chromedriver.exe");
+		driver = new ChromeDriver();
+		//comment the above 2 lines and uncomment below 2 lines to use Chrome
+		//System.setProperty("webdriver.chrome.driver","G:\\chromedriver.exe");
+		//WebDriver driver = new ChromeDriver();
+    	
+        String baseUrl = "https://youtube.com";
+        driver.get(baseUrl);
+
+	}
+    @AfterTest
+    public void after() {
+    //close Fire fox
+    driver.close();
+    }
+ 
+}
