@@ -119,3 +119,12 @@ Day 15: August 25th 2020
 
 Today's Progress : Learned about notion app to keep track of my tasks, a very useful app.Learned about testNG scripts annotations.
 Read an article regarding the same.
+
+### Day 16: August 26th 2020
+
+
+**Today's Progress**: wrote a sampl script using testng framework, tested youtube home page elements and their text,learned abou testng annotation - depends on, we can execute a certain code only if the code on which it is dependent is executed or passed. example - we can check an application further only after logging into the app. so login test must pass for other tests to exect
+**Thoughts:** learned about Lists and revisited hashmap that refreshed my knowledge on maps,lists and arraylist.
+
+**Link to work:** https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
+time -3 hours
