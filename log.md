@@ -128,3 +128,13 @@ Read an article regarding the same.
 
 **Link to work:** https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
 time -3 hours
+
+
+### Day 17: August 28th 2020
+
+**Today's Progress**:  Wrote script from toolsqa,to launch a demo site identify it's title and length of its title. use of testng commands. I read about test ng and selenium webdriver again and explores
+d notion app by creating notes and subnotes within the app.
+
+Thoughts : A good day to recollect on my testing knowledge, i read and recollected few topics in testing. Successfully launched the demo site and learned well about some commands
+
+Time -3 hours
