@@ -138,3 +138,8 @@ d notion app by creating notes and subnotes within the app.
 Thoughts : A good day to recollect on my testing knowledge, i read and recollected few topics in testing. Successfully launched the demo site and learned well about some commands
 
 Time -3 hours
+
+### Day 19: September 1st 2020
+
+**Today's Progress**: Tried hackerrank problem to count the number of distinct pairs in an array whose difference is a number "k". Was satisfied as i could solve it on my own, made use of for loops first to grab each element find difference then check if they satisfy the condition, if so increment count.
+
