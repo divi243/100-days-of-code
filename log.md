@@ -149,7 +149,7 @@ Today's Progress: Read articles on dev.to related to selenium, planned to test a
 
 Thoughts: A new strategy feels good, a goal is set and that makes my path much clearer.
 
-### Day 20: September 4th 2020
+### Day 21: September 4th 2020
 
 ***Today's Progress**: Organized my notion notes, added new article for my blog writing related to selenium and testing. Added few more test cases for testing week 1 website - guru99 and executed the same. mostly worked on writing notes and testing. Learned about how to find elements using locators. Learned about list of webelements and how to access them. Wrote 4 positive test cases and updated the same in my notes
 
