@@ -143,3 +143,14 @@ Time -3 hours
 
 **Today's Progress**: Tried hackerrank problem to count the number of distinct pairs in an array whose difference is a number "k". Was satisfied as i could solve it on my own, made use of for loops first to grab each element find difference then check if they satisfy the condition, if so increment count.
 
+Day 20:September 3rd 2020
+
+Today's Progress: Read articles on dev.to related to selenium, planned to test any one website each week using selenium and testNG. Wrote few testcases for website www.guru99.com, started with launching website checking title.
+
+Thoughts: A new strategy feels good, a goal is set and that makes my path much clearer.
+
+### Day 20: September 4th 2020
+
+***Today's Progress**: Organized my notion notes, added new article for my blog writing related to selenium and testing. Added few more test cases for testing week 1 website - guru99 and executed the same. mostly worked on writing notes and testing. Learned about how to find elements using locators. Learned about list of webelements and how to access them. Wrote 4 positive test cases and updated the same in my notes
+
+Thoughts: Productive day.
