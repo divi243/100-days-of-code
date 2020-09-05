@@ -154,3 +154,15 @@ Thoughts: A new strategy feels good, a goal is set and that makes my path much c
 ***Today's Progress**: Organized my notion notes, added new article for my blog writing related to selenium and testing. Added few more test cases for testing week 1 website - guru99 and executed the same. mostly worked on writing notes and testing. Learned about how to find elements using locators. Learned about list of webelements and how to access them. Wrote 4 positive test cases and updated the same in my notes
 
 Thoughts: Productive day.
+
+### Day 22: September 5th 2020
+
+***Today's Progress*- identified elements in a menu, learned about actions in selenium, tried to hover mouse over list item and test the it
+item is clickable, tried to identify only list items and not sub list items - stuck here as i do not know how to proceed with it.
+
+Thoughts: Productive day.
+
+
+
+
+
