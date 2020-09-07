@@ -162,7 +162,7 @@ item is clickable, tried to identify only list items and not sub list items - st
 
 Thoughts: Productive day.
 
-### Day 22: September 7th 2020
+### Day 23: September 7th 2020
 
 ***Today's Progress*** - slow day, read about big on notation again, continued testing of mouse hovering. Learned about parameter passing using data providers in test ng framework.
 
