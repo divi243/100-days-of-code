@@ -167,6 +167,12 @@ Thoughts: Productive day.
 ***Today's Progress*** - slow day, read about big on notation again, continued testing of mouse hovering. Learned about parameter passing using data providers in test ng framework.
 
 Thoughts: not so satisfied.
+### Day 24:September 8th 2020
+
+***Today's Progress*** - Added more test cases - verification of image icons, number of columns, menu items on the page, test search bar, title etc
+Reading about selenium and testing. Learned about List of web elements, how to check for only displayed items on screen, tested for navigation.
+
+Thoughts: good as i learned how to grab a list of elements within other list.
 
 
 
