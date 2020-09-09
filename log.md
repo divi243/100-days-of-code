@@ -174,5 +174,10 @@ Reading about selenium and testing. Learned about List of web elements, how to c
 
 Thoughts: good as i learned how to grab a list of elements within other list.
 
+### Day 25: September 9th 2020
 
+***Today's Progress***
+Joined guru99 daily practice session for testing, they sent 1st project to write test cases for sample project - guru99 banking. read the SRS Doc and wrote the testcases for few scenarios, read about selenium webdriver and why do we need browser drivers and how do they communicate. Read about SAP.
+
+link :https://docs.google.com/spreadsheets/d/1v4uBWifX4y0JbtDDE9ljDGa8UfgvwG5Q9pbuTR03QcE/edit?usp=sharing
 
