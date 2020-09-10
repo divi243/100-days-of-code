@@ -181,7 +181,7 @@ Joined guru99 daily practice session for testing, they sent 1st project to write
 
 link :https://docs.google.com/spreadsheets/d/1v4uBWifX4y0JbtDDE9ljDGa8UfgvwG5Q9pbuTR03QcE/edit?usp=sharing
 
-### Day 26:September 19  2020
+### Day 26:September 10  2020
 
 ***Today's Progress***
 Gurur99 sent Mockup - performed task  of going through mockup and SRS. Updated test plan with more testcases for - manager customer login, change password,mini statement. Read about STLC, Selenium webdriver and how it works, webdriver vs webelement. Learned about Locators and form elements. Learned about radio buttons
