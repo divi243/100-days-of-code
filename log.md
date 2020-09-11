@@ -188,3 +188,9 @@ Gurur99 sent Mockup - performed task  of going through mockup and SRS. Updated t
 
 Thoughts - productive day, read a lot and wrote notes to be added later as a blog. less coding though.
 
+### Day 27:September 11 2020
+
+***Today's Progress***
+Modified test cases for banking guru99 practice app. Read and learned about selenium - Action interface, select class, actions class vs action interface,more about xpath,identifying links, images using locators,how selenium handles alert and popups, upload and download of files for testing, how to access drop down options and other functions. Learned about desired capabilities in selenium, handling dynamic and static table. Verifying tooltip. Read some interview questions asked.
+
+Thoughts: good progress, i plan to continue my selenium course from guru99
