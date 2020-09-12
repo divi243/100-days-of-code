@@ -194,3 +194,9 @@ Thoughts - productive day, read a lot and wrote notes to be added later as a blo
 Modified test cases for banking guru99 practice app. Read and learned about selenium - Action interface, select class, actions class vs action interface,more about xpath,identifying links, images using locators,how selenium handles alert and popups, upload and download of files for testing, how to access drop down options and other functions. Learned about desired capabilities in selenium, handling dynamic and static table. Verifying tooltip. Read some interview questions asked.
 
 Thoughts: good progress, i plan to continue my selenium course from guru99
+### Day 28 : September 12 2020
+
+***Today's Progress***
+Got integration test plan from guru99 compared with mine and mine is more like intensive testing and integration test plan just needs module integrated testing. Read more on integration testing, why and when we need it. Read some article on  how we can be productive, fixed some errors in the script that i was writing on my own, Learned how to validate url links on a web page. Came to know of https://excalidraw.com/  site for great diagrams, loved it! Started script for automating my tweet on twitter, was able to do till step of putting #100DaysOfCode into tweet input box now need to prompt user to input the required message or text into the box.
+
+Thoughts: Happy started automating on my own.
