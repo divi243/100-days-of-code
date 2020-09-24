@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="NewTestSuite" thread-count ="5">
+<test name = "Login">
+
+<classes>
+<class name = "NewTest" > 
+  <methods>  
+  <exclude name = "submitAlert"/>  
+  </methods>  
+</class>
+</classes>
+</test>
+
+</suite> <!-- Suite -->
