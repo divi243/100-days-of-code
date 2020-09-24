@@ -200,3 +200,15 @@ Thoughts: good progress, i plan to continue my selenium course from guru99
 Got integration test plan from guru99 compared with mine and mine is more like intensive testing and integration test plan just needs module integrated testing. Read more on integration testing, why and when we need it. Read some article on  how we can be productive, fixed some errors in the script that i was writing on my own, Learned how to validate url links on a web page. Came to know of https://excalidraw.com/  site for great diagrams, loved it! Started script for automating my tweet on twitter, was able to do till step of putting #100DaysOfCode into tweet input box now need to prompt user to input the required message or text into the box.
 
 Thoughts: Happy started automating on my own.
+
+### Day 29,30 - Spent on reading
+
+### Day 31 - September 24th 2020
+
+**Today's Progress**
+Read about Build - understood the concept of build, build process, tools for build management - maven,jenkins,ant etc. read few blogs and made notes.
+Learned how to run test ng using testng.xml file and how to control the execution of test methods using xml tags. Planning to try out reporting using Allure with testng - need to try new formats for reporting to  make the results more readable and in proper format.
+
+Thoughts - good day of learning, i understood many concepts of what happens after programming, how that code is understood by machine using build concept, and how we can automate build process using certain tools readily available.
+https://javarevisited.blogspot.com/2015/01/difference-between-maven-ant-jenkins-and-hudson.html 
+[https://javarevisited.blogspot.com/2015/01/difference-between-maven-ant-jenkins-and-hudson.html](https://javarevisited.blogspot.com/2015/01/difference-between-maven-ant-jenkins-and-hudson.html)
