@@ -212,3 +212,11 @@ Learned how to run test ng using testng.xml file and how to control the executio
 Thoughts - good day of learning, i understood many concepts of what happens after programming, how that code is understood by machine using build concept, and how we can automate build process using certain tools readily available.
 https://javarevisited.blogspot.com/2015/01/difference-between-maven-ant-jenkins-and-hudson.html 
 [https://javarevisited.blogspot.com/2015/01/difference-between-maven-ant-jenkins-and-hudson.html](https://javarevisited.blogspot.com/2015/01/difference-between-maven-ant-jenkins-and-hudson.html)
+
+### Day 32 - September 28 2020
+
+**Today''s Progress**
+
+Continued on selenium testng report generation concepts, learned about parallel execution of tests and suites Read about  how to use testng.xml file for ordering of test cases and controlling the execution. Learned about ItestListener and IReporter. Learned about types of listeners in selenium, also on how to customize our testNG Reporting, email and ull report, how to implement the available interfaces. Completed reading material on  test ng andtrying their sample script, done with basic selenium webdriver, planning to start advanced topics.
+
+
